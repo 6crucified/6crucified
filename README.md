@@ -1,20 +1,9 @@
 # crucified.
-hey! i'm crucified, a car and windows enthusiast. feel free to add me on discord through my [bio](guns.crucified.lol/).
+hey! i'm crucified, a car and windows enthusiast. you can access my links below:
+
+[guns.lol bio page](guns.lol/.vnn6)
+[e-z bio page](e-z.bio/667)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31lyeq6hotqcrxk7pnbmywzdqjny">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31lyeq6hotqcrxk7pnbmywzdqjny" alt="Data Card for Spotify">
-</a>
+omnicord 👀
