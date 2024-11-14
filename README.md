@@ -6,4 +6,4 @@ hey! i'm crucified, a car and windows enthusiast. you can access my links below:
 
 
 
-omnicord 👀
+exon 👀
