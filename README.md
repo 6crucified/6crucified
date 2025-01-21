@@ -2,7 +2,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/> 
 
 ```csharp
-github.com/hriiss
+github.com/6crucified
 dc   $  @trap87
 srv  $  discord.gg/siblings
 ```
