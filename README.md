@@ -4,7 +4,7 @@
 ```csharp
 github.com/6crucified
 dc   $  @trap87
-srv  $  discord.gg/siblings
+srv  $  discord.gg/BTXqSG2SWr
 ```
 &zwnj; 
 &zwnj; 
