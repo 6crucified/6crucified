@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **A web app that combines tasks, notes, and AI in one clean workspace.**
 
-- 🌱 I'm currently learning **TypeScript**
+- 🌱 I'm currently learning **TypeScript** and **SQL**.
 
 - 📫 You can reach out to me anytime @ **lamelle.09-croche@icloud.com**
 
