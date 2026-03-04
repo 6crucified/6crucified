@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Shipyard, a suite of apps for AI developers.](https://shipyard.lol)
 
-- 👨‍💻 All of my projects are available at [https://human.shipyard.lol](https://human.shipyard.lol)
+- 👨‍💻 Checkout my full portfolio at [https://human.shipyard.lol](https://human.shipyard.lol)
 
-- 📫 How to reach me **abdurrahmansarikir9@gmail.com**
+- 📫 Feel free to reach me at  **abdurrahmansarikir9@gmail.com**
 
 - ⚡ Fun fact **I think I have a really weird sense of humor**
 
